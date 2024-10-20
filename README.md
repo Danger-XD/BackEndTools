@@ -25,8 +25,20 @@ Alternative is "yarn" package manager
 - express-fileupload [click here](https://www.npmjs.com/package/express-fileupload)
 - express-rate-limit [click here](https://www.npmjs.com/package/express-rate-limit)
 - md5 [click here](https://www.npmjs.com/package/md5)
+- bcrypt [click here](https://www.npmjs.com/package/bcrypt)
+- crypto-js [click here](https://www.npmjs.com/package/crypto-js)
 - xss [click here](https://www.npmjs.com/package/xss)
 - body-parser [click here](https://www.npmjs.com/package/body-parser)
 - dotenv [click here](https://www.npmjs.com/package/dotenv)
 - morgan [click here](https://www.npmjs.com/package/morgan)
 - express-async-errors [click here](https://www.npmjs.com/package/express-async-errors)
+  
+## Project Working Sequence
+- Database design
+- Create database(mongoDB)
+- Model
+- Service
+- Controller
+- Api
+- App
+- Index
